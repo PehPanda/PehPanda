@@ -28,7 +28,6 @@
     
   <img align="center" alt="Peh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       
-    <img align="center" alt="Peh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
 <!--   <img align="right" alt="Peh-yoda" height="150" width="270" src="https://monophy.com/media/cpAGF6uxLw93uuQNNJ/monophy.gif"> -->
 </div>
